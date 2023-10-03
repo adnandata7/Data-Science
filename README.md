@@ -1,2 +1,2 @@
 # Data-Science
-Here are the some Assignments related Data Science
+Here are the some Assignments related to Data Science
